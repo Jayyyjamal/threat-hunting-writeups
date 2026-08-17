@@ -71,7 +71,7 @@ Investigated authentication activity to identify patterns consistent with brute-
 - Event correlation
 - Attack timeline development
 
-👉 [View Investigation](brute-force-investigation/)
+👉 [View Investigation](windows-event-log-analysis/suspicious-registry-activity/brute-force-investigation/README.md)
 
 ---
 
