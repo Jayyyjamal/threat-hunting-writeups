@@ -54,7 +54,7 @@ Investigated Windows Registry activity to identify potentially suspicious modifi
 - Threat hunting
 - MITRE ATT&CK mapping
 
-👉 [View Investigation](/suspicious-registry-activity)
+👉 [View Investigation](windows-event-log-analysis/suspicious-registry-activity/README.md)
 
 ---
 
